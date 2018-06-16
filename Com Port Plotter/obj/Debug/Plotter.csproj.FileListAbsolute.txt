@@ -1,0 +1,6 @@
+C:\Users\Hgoktas\Desktop\Com Port Plotter\bin\Debug\Plotter.exe
+C:\Users\Hgoktas\Desktop\Com Port Plotter\bin\Debug\Plotter.pdb
+C:\Users\Hgoktas\Desktop\Com Port Plotter\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\Hgoktas\Desktop\Com Port Plotter\obj\Debug\Plotter.csproj.GenerateResource.Cache
+C:\Users\Hgoktas\Desktop\Com Port Plotter\obj\Debug\Plotter.exe
+C:\Users\Hgoktas\Desktop\Com Port Plotter\obj\Debug\Plotter.pdb
